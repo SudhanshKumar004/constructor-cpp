@@ -52,7 +52,7 @@ class C:public B
 int main()
 {
     C a;
-    a.show();
     a.msg();
     a.see();
+    a.show();
 }

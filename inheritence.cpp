@@ -29,7 +29,6 @@
 using namespace std;
 class RBI
 {
-    int a;
     public:RBI()
     {
         cout << "\nRBI Memory\n";
@@ -45,7 +44,7 @@ class RBI
 };
 class SBI:public RBI
 {
-    int v;---------------------
+
     public:SBI()
     {
         cout << "\n SBI Memory \n";
